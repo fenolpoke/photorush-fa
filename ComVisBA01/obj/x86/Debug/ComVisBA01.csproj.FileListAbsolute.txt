@@ -1,0 +1,114 @@
+C:\Users\prk\AppData\Local\Temporary Projects\ComVisBA01\bin\Debug\ComVisBA01.exe
+C:\Users\prk\AppData\Local\Temporary Projects\ComVisBA01\bin\Debug\ComVisBA01.pdb
+C:\Users\prk\AppData\Local\Temporary Projects\ComVisBA01\obj\x86\Debug\ComVisBA01.LoginForm.resources
+C:\Users\prk\AppData\Local\Temporary Projects\ComVisBA01\obj\x86\Debug\ComVisBA01.Properties.Resources.resources
+C:\Users\prk\AppData\Local\Temporary Projects\ComVisBA01\obj\x86\Debug\ComVisBA01.csproj.GenerateResource.Cache
+C:\Users\prk\AppData\Local\Temporary Projects\ComVisBA01\obj\x86\Debug\ComVisBA01.exe
+C:\Users\prk\AppData\Local\Temporary Projects\ComVisBA01\obj\x86\Debug\ComVisBA01.pdb
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.exe
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.pdb
+D:\ComVisBA01\ComVisBA01\bin\Debug\ComVisBA01.exe
+D:\ComVisBA01\ComVisBA01\bin\Debug\ComVisBA01.pdb
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.HomePage.resources
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.LoginForm.resources
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.Properties.Resources.resources
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.RegisterForm.resources
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.csproj.GenerateResource.Cache
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.GrayscaledForm.resources
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.ThresholdForm.resources
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.EdgeDetectForm.resources
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.ObjectDetectForm.resources
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.ShapeDetectForm.resources
+D:\ComVisBA01\ComVisBA01\obj\x86\Debug\ComVisBA01.SmoothingForm.resources
+C:\Users\USER\Documents\ComVisBA01 project1\ComVisBA01\obj\x86\Debug\ComVisBA01.exe
+C:\Users\USER\Documents\ComVisBA01 project1\ComVisBA01\obj\x86\Debug\ComVisBA01.pdb
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.exe
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.pdb
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\ComVisBA01.exe
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\ComVisBA01.pdb
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.EdgeDetectForm.resources
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.GrayscaledForm.resources
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.HomePage.resources
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.LoginForm.resources
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.ObjectDetectForm.resources
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.Properties.Resources.resources
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.RegisterForm.resources
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.ShapeDetectForm.resources
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.SmoothingForm.resources
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.ThresholdForm.resources
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\cudart32_40_17.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\cufft32_40_17.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\cvextern.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\cvextern_gpu.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\npp32_40_17.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_calib3d231.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_contrib231.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_core231.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_features2d231.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_ffmpeg.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_flann231.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_gpu231.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_highgui231.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_imgproc231.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_legacy231.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_ml231.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_objdetect231.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_video231.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\ZedGraph.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.ML.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.UI.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.Util.dll
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.xml
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.ML.xml
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.UI.xml
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.Util.xml
+C:\Users\USER\Documents\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.exe
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.pdb
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.csprojResolveAssemblyReference.cache
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.EdgeDetectForm.resources
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.GrayscaledForm.resources
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.HomePage.resources
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.LoginForm.resources
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.ObjectDetectForm.resources
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.Properties.Resources.resources
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.RegisterForm.resources
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.ShapeDetectForm.resources
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.SmoothingForm.resources
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.ThresholdForm.resources
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\obj\x86\Debug\ComVisBA01.csproj.GenerateResource.Cache
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\cudart32_40_17.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\cufft32_40_17.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\cvextern.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\cvextern_gpu.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\npp32_40_17.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_calib3d231.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_contrib231.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_core231.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_features2d231.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_ffmpeg.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_flann231.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_gpu231.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_highgui231.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_imgproc231.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_legacy231.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_ml231.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_objdetect231.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\opencv_video231.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\ZedGraph.dll
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\ComVisBA01.exe
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\ComVisBA01.pdb
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.xml
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.ML.xml
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.CV.UI.xml
+C:\Users\COMPAQ\Desktop\ComVisBA01 proj - Copy\ComVisBA01\bin\Debug\Emgu.Util.xml
